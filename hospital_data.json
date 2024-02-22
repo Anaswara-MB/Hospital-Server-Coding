@@ -1,0 +1,28 @@
+{
+  "hospitals": [
+    {
+      "name": "unity hospital",
+      "patient_count": 9876,
+      "location": "South Africa",
+      "id": 1708617669158
+    },
+    {
+      "name": "Amala hospital",
+      "patient_count": 1289,
+      "location": "TVM",
+      "id": 1708617808517
+    },
+    {
+      "name": "Mars Hospital",
+      "patient_count": 231,
+      "location": "Milky Street",
+      "id": 1708617921885
+    },
+    {
+      "name": "Govt Hospital",
+      "patient_count": 4387,
+      "location": "Kollam",
+      "id": 1708618405707
+    }
+  ]
+}
